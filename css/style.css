@@ -1,0 +1,46 @@
+body {
+    background-color: black;
+    text-align: center;
+}
+
+table{
+   padding: 30px;
+   margin: auto;
+
+}
+
+h1{
+    padding: 10px;
+    color: azure;
+    margin: 20px;
+}
+h2{
+    padding: 10px;
+    color: darkorange;
+    margin: 10px;
+    
+
+
+}
+
+td {
+background-color: bisque;
+    width: 40px;
+    height:40px;
+    text-align: center;
+    font-size:1.4em;
+    cursor: pointer;
+}
+td:hover{
+background-color: aqua;
+
+}
+
+.mark {
+    background-color:darkgrey;
+      
+    }
+
+
+
+    
